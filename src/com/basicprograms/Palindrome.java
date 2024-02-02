@@ -22,7 +22,7 @@ public class Palindrome {
     }
 }
 
-//For number:
+//
 //    int r,sum=0,temp;
 //    int n=454;//It is the number variable to be checked for palindrome
 //
